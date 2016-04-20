@@ -9,3 +9,5 @@ function branch_funcao2(id){
   return TRUE;
 }
  trader_minmaxindex
+
+():
