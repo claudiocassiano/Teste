@@ -11,3 +11,4 @@ function branch_funcao2(id){
  trader_minmaxindex
 
 ():
+testando
